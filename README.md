@@ -13,4 +13,4 @@ It is a tool pre-installed on the Windows operating system. It can be used to ve
 
 Certutil is a CLI program that can be used to dump and display certificate authorities (cas), configuration information, certificate services, backup and restore of CA components, and verify certificates, key pairs, and certificate chains, which is installed as part of the Certificate service.
 
-The commands used by Certutil can be deleted, leaving you with the commands you need.
+The script uses a total of three commands about Certutil and can remove the required commands.
